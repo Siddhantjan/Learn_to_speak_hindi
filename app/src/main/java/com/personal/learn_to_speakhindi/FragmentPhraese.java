@@ -90,8 +90,6 @@ public class FragmentPhraese extends Fragment {
                 R.raw.imalso_good));
         words.add(new Word("I am not so good", "main theek nahin hoon",
                 R.raw.im_not_so_good));
-        words.add(new Word("My name is maria", " mera naam maria hai",
-                R.raw.my_name_maria));
         words.add(new Word("How are you feeling?", "tumhe kaisa lag raha hai?",
                 R.raw.how_you_feeling));
         words.add(new Word("I’m feeling good.", "main achchha mahasoos kar rahee hoon.",
